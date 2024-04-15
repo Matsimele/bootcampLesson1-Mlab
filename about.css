@@ -1,0 +1,43 @@
+/* Style for About me page*/
+
+.MyHead {
+    background-color: rgb(111, 0, 255);
+    color: blanchedalmond;
+    margin: 0 auto;
+    text-align: center;
+  
+}
+
+#Homepage {
+    padding: 8px;
+}
+
+.tabHead  {
+    margin: 0 auto;
+    width: 1000px;
+    background-color: rgb(141, 26, 103);
+    color: rgb(10, 40, 66); 
+    border-collapse: separate;
+    padding-inline: 20px;
+ 
+     
+}
+
+#RowTable {
+   
+    width: 250px;
+    color:aliceblue;
+    text-align: center;
+    padding-top: 8px;
+}
+
+.Info {
+width: 100rem;
+
+}
+.paragraph {
+    align-items:  center;
+    width: 200px;
+    margin: 0 auto; 
+    background-color: #f2f2f2;
+  }
